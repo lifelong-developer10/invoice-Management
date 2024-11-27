@@ -47,6 +47,8 @@ This project is an **Invoice Management System**, designed to help businesses ef
 ![invoices](https://github.com/user-attachments/assets/bd4e1b64-a961-4fe0-b1f9-00c2e933836b)
 
 
-![csv]![Screenshot 2024-11-27 151750](https://github.com/user-attachments/assets/02b07ecb-9aea-4fc7-8cfb-d7824dec2b5b)
+![csv](https://github.com/user-attachments/assets/02b07ecb-9aea-4fc7-8cfb-d7824dec2b5b)
 
+
+![paid](https://github.com/user-attachments/assets/359997a7-7245-45e4-a211-e05f5af61f6d)
 
